@@ -15,7 +15,6 @@ these_area_a_few_of_my_favorite_things = Exercise("These are a few of my favorit
 c36 = Cohort("Day Cohort 36")
 c37 = Cohort("Day Cohort 37")
 c38 = Cohort("Day Cohort 38") 
-e1 = Cohort("Evening Cohort 1")
 
 # Create 4, or more, students and assign them to one of the cohorts.
 bito = Student("Bito", "Mann")
